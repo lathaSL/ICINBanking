@@ -15,9 +15,7 @@ import javax.persistence.OneToOne;
 
 import com.icin.banking.model.Account;
 
-import lombok.Data;
 
-@Data
 @Entity
 public class User {
 	@Id
